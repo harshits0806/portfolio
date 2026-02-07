@@ -1,2 +1,2 @@
-Portfolio link are below-
+Portfolio link are-
 https://harshansportfolio.netlify.app/
